@@ -1,9 +1,9 @@
 ---
-name: reading-content-analysis
+name: to-know-what-you-read
 description: 分析阅读内容（文章、文档、网页、PDF、书籍章节等），生成结构化摘要、核心关键词与深度洞察。当用户要求总结或提炼阅读材料、提取文章要点、分析文档内容、生成阅读报告或读书笔记时使用本 skill。
 ---
 
-# Reading Content Analysis
+# To Know What You Read
 
 ## Overview
 
